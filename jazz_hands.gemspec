@@ -27,5 +27,5 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'pry-byebug', '~> 3.0'
   gem.add_runtime_dependency 'hirb', '~> 0.7'
   gem.add_runtime_dependency 'awesome_print', '~> 1.6'
-  gem.add_runtime_dependency 'railties', '>= 3.0', '< 5.0'
+  gem.add_runtime_dependency 'railties', '>= 3.0'
 end
